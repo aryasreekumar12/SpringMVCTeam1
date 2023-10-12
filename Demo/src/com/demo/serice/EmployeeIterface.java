@@ -11,8 +11,19 @@ public interface EmployeeIterface {
 
 	public void added();
 	public void hello();
+
+	
 	
 	
 	public void search(String searchTerm);
+
+	
+
+	
+	
+	
+	
+	public void AddEmployeedetails();
+	public void deleteByEmployee();
 
 }
