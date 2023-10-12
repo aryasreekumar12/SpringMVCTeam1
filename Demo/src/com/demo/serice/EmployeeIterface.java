@@ -6,5 +6,5 @@ public interface EmployeeIterface {
 	public void hello();
 	
 	public void hi();
-
+    public void bye();
 }
