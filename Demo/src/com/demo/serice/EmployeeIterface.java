@@ -13,4 +13,10 @@ public interface EmployeeIterface {
 	public void hello();
 	
 
+	
+	
+	
+	
+	public void AddEmployeedetails();
+
 }
