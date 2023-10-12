@@ -1,0 +1,14 @@
+package com.demo.serice;
+
+public interface EmployeeIterface {
+	
+	public void search();
+<<<<<<< HEAD
+	public void added();
+=======
+	public void hello();
+	
+	public void hi();
+>>>>>>> 15576e571930842abab59eb48062aae07e824aa5
+
+}

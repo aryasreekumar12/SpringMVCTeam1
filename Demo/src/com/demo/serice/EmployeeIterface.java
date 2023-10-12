@@ -8,9 +8,9 @@ public interface EmployeeIterface {
 	    }
 
 	public void search();
+
+	public void added();
 	public void hello();
 	
-	public void hi();
-
 
 }
